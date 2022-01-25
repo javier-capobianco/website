@@ -4,10 +4,13 @@ hr {
   border-bottom-style: none;
   border-left-style: none;
   border-right-style: none;
-  /* you can do ln 13:16 by doing 
+  /* you can do ln 3:6 by doing 
      border-style: dotted none none */
   width: 5%;
   border-width: 5px;
+}
+body {
+  background-color: white;
 }
 h1 {
   color: #66bfbf;
